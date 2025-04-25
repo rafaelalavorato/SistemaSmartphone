@@ -36,15 +36,15 @@ Demonstrar o uso de:
    ```bash
    dotnet run
 
-📷 Exemplo de saída no console   
-=== iPhone ===
-Número: 11 98765-4321
-Modelo: iPhone 13
-IMEI: 123456789012345
-Memória: 128 GB
-Ligando...
-Recebendo ligação...
-Instalando o aplicativo "Instagram" no iPhone via App Store...
+📷 Exemplo de saída no console   <br>
+=== iPhone ===  <br>
+Número: 11 98765-4321  <br>
+Modelo: iPhone 13  <br>
+IMEI: 123456789012345  <br>
+Memória: 128 GB  <br>
+Ligando...  <br>
+Recebendo ligação...  <br>
+Instalando o aplicativo "Instagram" no iPhone via App Store...  <br>
 
 
 
